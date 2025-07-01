@@ -18,3 +18,10 @@ Here are some of the projects I'm most proud of — blending creativity, securit
 - **AI News Synthesizer** – Daily editorial news scripts for podcast + TikTok
 - **CMMC Compliance Planner** – Real-world cost breakdowns for cert readiness
 [➡️ See full project summaries](https://github.com/jenastar/project_summaries)
+
+## 🧰 Tools & Technologies
+
+`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `Sentinel`  
+`Security Engineering` `Automation` `Prompt Engineering` `NLP` `SIEM/IR`
+
+> 🧠 CISSP Certified | 🪖 Veteran | 🎓 Lifelong Nerd
