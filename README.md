@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Jena
 
-<!--
-**jenastar/jenastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Security Engineer and creative technologist building at the intersection of AI, automation, and cyber defense. Whether it's scaling machine learning pipelines, breaking down phishing threats, or crafting educational content that actually sticks — I'm here to build things that matter.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎥 Building an automated ML explainer video pipeline using OpenAI + SORA
+- 🛡️ Developing phishing classifiers with AWS Comprehend + Terraform
+- 🎙️ Running a daily AI news segment: [Need-to-Nerd Basis](#) (stay tuned!)
+- 🔍 Comparing SIEM platforms for high-ingest, security-first environments
+
+## 📂 Projects at a Glance
+
+Here are some of the projects I'm most proud of — blending creativity, security, and scale:
+
+- **ML Social Video Pipeline** – AI → storyboard → video → social post
+- **Phishing Detection Engine** – Custom classifiers, AWS automation, RL on the horizon
+- **AI News Synthesizer** – Daily editorial news scripts for podcast + TikTok
+- **CMMC Compliance Planner** – Real-world cost breakdowns for cert readiness
+[➡️ See full project summaries](https://github.com/jenastar/project_summaries)
