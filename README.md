@@ -1,6 +1,16 @@
 👋 Hi, I'm Jena
 
+![Security Engineer](https://img.shields.io/badge/Role-Security_Engineer-1976D2)
+![Splunk Architect](https://img.shields.io/badge/Splunk-Certified_Architect-lightgrey)
+![Focus: AI Automation](https://img.shields.io/badge/Focus-AI_Automation-blue)
+![Nerd Level](https://img.shields.io/badge/Nerd_Level-Over_9000-purple)
+
 I'm a Security Engineer and creative technologist building at the intersection of AI, automation, and cyber defense. Whether it's scaling machine learning pipelines, breaking down phishing threats, or crafting educational content that actually sticks — I'm here to build things that matter.
+
+## 🧰 Tools & Technologies
+
+`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `Sentinel`  
+`Security Engineering` `Automation` `Prompt Engineering` `NLP` `SIEM/IR`
 
 ## 🛠️ What I'm Working On
 
@@ -19,9 +29,6 @@ Here are some of the projects I'm most proud of — blending creativity, securit
 - **CMMC Compliance Planner** – Real-world cost breakdowns for cert readiness
 [➡️ See full project summaries](https://github.com/jenastar/project_summaries)
 
-## 🧰 Tools & Technologies
 
-`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `Sentinel`  
-`Security Engineering` `Automation` `Prompt Engineering` `NLP` `SIEM/IR`
 
-> 🧠 CISSP Certified | 🪖 Veteran | 🎓 Lifelong Nerd
+
