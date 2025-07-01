@@ -12,6 +12,9 @@ I'm a Security Engineer and creative technologist building at the intersection o
 `Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `Sentinel`  
 `Security Engineering` `Automation` `Prompt Engineering` `NLP` `SIEM/IR`
 
+
+
+
 ## 🛠️ What I'm Working On
 
 - 🎥 Building an automated ML explainer video pipeline using OpenAI + SORA
