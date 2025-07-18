@@ -5,7 +5,7 @@
 ![Focus: AI Automation](https://img.shields.io/badge/Focus-AI_Automation-blue)
 ![Nerd Level](https://img.shields.io/badge/Nerd_Level-Over_9000-purple)
 
-I'm a Security Engineer and creative technologist building at the intersection of AI, automation, and cyber defense. Whether it's scaling machine learning pipelines, breaking down phishing threats, or crafting educational content that actually sticks — I'm here to build things that matter.
+I'm a Security Architect/Engineer and creative technologist building at the intersection of AI, automation, and cyber defense. Whether it's scaling machine learning pipelines, breaking down phishing threats, or crafting educational content that actually sticks — I'm here to build things that matter.
 
 ## 🧰 Tools & Technologies
 
