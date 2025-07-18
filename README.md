@@ -17,16 +17,16 @@ I'm a Security Engineer and creative technologist building at the intersection o
 
 ## 🛠️ What I'm Working On
 
+- 🔍 askSplunk: Multi-agent NLP system for translating plain English into optimized Splunk SPL queries
 - 🎥 Building an automated ML explainer video pipeline using OpenAI + SORA
 - 🛡️ Developing phishing classifiers with AWS Comprehend + Terraform
 - 🎙️ Running a daily AI news segment: [Need-to-Nerd Basis](#) (stay tuned!)
-- 🔍 Comparing SIEM platforms for high-ingest, security-first environments
 
 ## 📂 Projects at a Glance
 
 Here are some of the projects I'm most proud of — blending creativity, security, and scale:
 
-- **askSplunk** Agentic system NLP so users can speak plain English and get SPL results
+- **askSplunk** – Multi-agent natural language interface that converts plain English questions into optimized SPL queries for Splunk
 - **ML Social Video Pipeline** – AI → storyboard → video → social post
 - **Phishing Detection Engine** – Custom classifiers, AWS automation, RL on the horizon
 - **AI News Synthesizer** – Daily editorial news scripts for podcast + TikTok
