@@ -9,8 +9,8 @@ I'm a Security Engineer and creative technologist building at the intersection o
 
 ## 🧰 Tools & Technologies
 
-`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `MCP` `PyTorch`  
-`Security Engineering` `Automation` `Prompt Engineering` `NPL` `SIEM/IR`
+`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `MCP` `PyTorch` `Self-Healing`
+`Security Engineering` `Automation` `Prompt Engineering` `NPL` `SIEM/IR` `Ollama`
 
 
 
