@@ -9,8 +9,8 @@ I'm a Security Engineer and creative technologist building at the intersection o
 
 ## 🧰 Tools & Technologies
 
-`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `Sentinel`  
-`Security Engineering` `Automation` `Prompt Engineering` `NLP` `SIEM/IR`
+`Python` `Terraform` `AWS` `OpenAI API` `MoviePy` `Splunk` `MCP` `PyTorch`  
+`Security Engineering` `Automation` `Prompt Engineering` `NPL` `SIEM/IR`
 
 
 
@@ -26,6 +26,7 @@ I'm a Security Engineer and creative technologist building at the intersection o
 
 Here are some of the projects I'm most proud of — blending creativity, security, and scale:
 
+- **askSplunk** Agentic system NLP so users can speak plain English and get SPL results
 - **ML Social Video Pipeline** – AI → storyboard → video → social post
 - **Phishing Detection Engine** – Custom classifiers, AWS automation, RL on the horizon
 - **AI News Synthesizer** – Daily editorial news scripts for podcast + TikTok
